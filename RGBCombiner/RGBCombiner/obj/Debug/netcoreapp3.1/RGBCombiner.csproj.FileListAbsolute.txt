@@ -1,0 +1,14 @@
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\bin\Debug\netcoreapp3.1\RGBCombiner.exe
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\bin\Debug\netcoreapp3.1\RGBCombiner.deps.json
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\bin\Debug\netcoreapp3.1\RGBCombiner.runtimeconfig.json
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\bin\Debug\netcoreapp3.1\RGBCombiner.runtimeconfig.dev.json
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\bin\Debug\netcoreapp3.1\RGBCombiner.dll
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\bin\Debug\netcoreapp3.1\RGBCombiner.pdb
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.AssemblyInfo.cs
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.dll
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.pdb
+E:\Visual Studio Projects\RGBCombiner\RGBCombiner\obj\Debug\netcoreapp3.1\RGBCombiner.genruntimeconfig.cache
